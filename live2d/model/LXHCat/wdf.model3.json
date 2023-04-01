@@ -1,0 +1,15 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "wdf.moc3",
+		"Textures": [
+			"wdf.512/texture_00.png"
+		],
+		"DisplayInfo": "wdf.cdi3.json"
+	}
+	"Moc": "wdf.moc3",
+		"Textures": [
+			"wdf.512/texture_00.png"
+		],
+	"DisplayInfo": "wdf.cdi3.json"
+}

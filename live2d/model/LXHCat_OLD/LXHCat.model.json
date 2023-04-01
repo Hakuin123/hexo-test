@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "LXHCat",
+	"model": "LXHCat.moc",
+	"textures": [
+		"LXHCat.2048/texture_00.png"
+	]
+}
