@@ -6,6 +6,9 @@ title: Hello World
 
 乐
 
+
+<script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
+
 <script src="https://giscus.app/client.js"
         data-repo="Hakuin123/hexo-test"
         data-repo-id="R_kgDOJOiHAA"
